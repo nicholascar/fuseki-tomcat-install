@@ -4,10 +4,7 @@ This tiny repo holds instructions for installing Apache's Jena Fuseki RDF triple
 It's basically an extension to the instructions at Fuseki's documentation pages at <https://jena.apache.org/documentation/fuseki2/>.  
 
 ## Installation script
-The installation script is <install.sh>. It's not quite ready for automated installation so should be followed "by hand".  
-
-
-
+The installation script is [install.sh](install.sh). It's not quite ready for automated installation so should be followed "by hand".  
 
 
 ## Author and Contact
